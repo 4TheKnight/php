@@ -1,2 +1,2 @@
 # php
-all the php practice codes are present here
+all the php practice exercises are present here
